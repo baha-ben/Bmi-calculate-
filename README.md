@@ -232,10 +232,4 @@ The system classifies BMI into four categories:
 - Mobile responsive improvements
 - Add more detailed analytics and insights
 
-## License
-
-This project is developed for educational purposes.
-
-## Contact
-
-For questions or support, please contact the development team.
+Baha Taki Eddine Ben Abdallah 
